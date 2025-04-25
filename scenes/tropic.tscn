@@ -130,10 +130,10 @@ position = Vector2(270, 124)
 next_level = "forest"
 
 [node name="CollisionShape2D" parent="LevelEnd" index="0"]
-position = Vector2(-5, 13)
+position = Vector2(871, 37)
 shape = SubResource("RectangleShape2D_g24r1")
 
 [node name="Enemy" parent="." instance=ExtResource("15_q1idf")]
-position = Vector2(196, 159)
+position = Vector2(197, 159)
 
 [editable path="LevelEnd"]
